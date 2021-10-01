@@ -1,0 +1,161 @@
+Pack Includes:
+-AnonymousMailer 
+-Phisher Maker! Read the ReadMe.txt
+-Jiffy Gmail Account Creator - Create GMAIL acc for setting up hosting acc etc.
+-Tarantula a Powerful software to extract e-mail addresses matching your keyword query
+-RapidExtract is a tool that checks EMAIL:PASSWORD lists, for rapidshare accounts, if the email has a rapidshare account it then sends the login to the email. Then you can login to the email (most people use same pass for everything) and obtain the rapidshare account. 
+-IP Hider Pack - Read the ReadMe.txt
+-Steam Phiser
+-Rapidshare Phiser
+-Friendster Phiser
+-Gmail Phisher
+-Habbo Phisher
+-Facebook Phisher
+-Photobucket Phisher
+-XboxLive Phisher
+-AIM Phisher
+-GaiaOnline Phisher
+-IMVU Phisher
+-AstaTalk Phisher
+-Warez-bb Phisher
+-Hotmail Phisher
+-Paypal Phisher
+-Runescape Phisher
+-youtube Phisher
+and many many more.
+
+---What is a phisher---
+Basically a phisher is a fake login page, that is made to look exactly like the real login page of the real website so as to fool somebody into entering their information and sending it to you.
+
+---How can I get somebody to login to my phisher---
+That's for you to find out, use your mind. Probably the simplest way is Social Engineering and some phishing skill Here is an example : http://imgdevil.com/pfiles/140/phisher.jpg
+
+---How to use---
+Find a web host that supports php.
+Upload all of the files to your web hosting.
+Goto the link (yoursite.freehostname.com or whatever) and it should show the login if you uploaded it in the root directory.Send your victim the Index page.
+To get the passwords they enter goto yoursite.freehostname.com/passwords.txt, or whatever the name of your text file is. 
+Remember to have the .txt file always on CHMOD 777 to enable it to be writtable.
+
+---Changing the log.txt or password.txt to something else---
+First rename your text file to what you want it, so nobody can guess it.
+Then open the next.php (or may be named out.php)and edit the text that says passes.txt to whatever you named your text file.
+
+---How to hide links in forums---
+If your trying to post it where html is allowed its:
+<a href="http://yourphisherlink.com">http://yourreallink.com</a>
+
+If you are trying to post it on forms its:
+[url=http://yourphisherlink.com]http://yourreallink.com[/url]
+
+---Free Hosting for your phisers---
+* 110mb - http://110mb.com
+* Ripway - http://ripway.com
+* SuperFreeHost - http://superfreehost.info
+* Freehostia - http://freehostia.com
+* Funpic - http://funpic.de (How to remove ads?)
+* Funpic - http://funpic.org (How to remove ads?)
+* Freeweb7 - http://freeweb7.com
+* t35 - http://t35.com
+* Awardspace - http://awardspace.com
+* PHPNet - http://phpnet.us
+* Free Web Hosting Pro - http://freewebhostingpro.com
+* ProHosts - http://prohosts.org
+* AtSpace - http://atspace.com
+* ByetHost - http://byethost.com/
+* 000webhost - http://000webhost.com/
+* My5GB - http://www.my5gb.com/
+* Oxyhost - http://www.oxyhost.com/
+* Rack111 - http://www.rack111.com/
+* Ocostwebhost - http://0costwebhost.com/
+* FreeZoka - http://www.freezoka.com/
+
+---Free Domain List---
+* .TK - http://dot.tk/
+* .CJB.NET - http://cjb.net/
+* .DOM.IR - http://dom.ir/
+* .EURO.ST & MANY MORE - http://ulimit.com/en
+* .CO.CC - http://co.cc/
+* .CO.NR - http://freedomain.co.nr/
+* .US.TT & MANY MORE - http://joynic.com
+* .UNI.CC - http://uni.cc/
+* .CA.GS - http://ca.gs
+
+---Email Spammers---
+http://padu.info/
+
+    
+---URL Hiders---
+http://2isp.com
+http://tinyurl.com
+http://w3t.org
+http://lix.in
+http://sturly.com
+http://urlprune.com
+http://rarme.com
+http://doiop.com/
+http://rapidlayer.in/
+http://myref.de/
+http://link-protector.com/
+http://www.lil-link.com/
+http://urlite.com/
+http://protect-links.com
+http://snurl.com
+http://lil-links.com
+http://rapidbolt.com
+http://snip-it.com  
+
+---Proxies if you get banned on forums for posting phisers---
+http://subno.info
+http://jeal.info
+http://workstudyguide.com
+http://mariogold.com
+http://unblockthissite.com
+http://kproxy.com
+-MORE IN THE PROXY.txt or just get onto www.proxy.org
+
+---Interesting tools/sites---
+http://fakenamegenerator.com/ - hacked a unverified paypal or something change the name no ideas see this 
+http://www.fakemailer.net/
+http://www.deadfake.com/
+
+---Site to Phish at---
+http://smforum.net/
+http://wrzboard.org/
+http://blitzwarez.net/
+http://warezscene.org/
+http://blackbay.org/
+http://warezforum.info/forum/
+http://projectw.org/
+http://crazy-coderz.net/index.php (Closed)
+http://voide.org/
+http://warez-it.co.uk/
+http://t-warez.com/
+http://share4life.co.uk/forums/
+http://forumw.org/
+http://tehparadox.com/
+http://wrzteam.com/vb/
+http://katzforums.com/
+http://usawarez.net/forum/index.php
+http://silentground.org/forums/
+http://xtremew.org/
+http://wckedforums.com/
+http://porn-bb.org
+http://www.forumophilia.com/index.php
+http://www.warezcountry.org/
+http://mpcforum.com
+http://gamerzneeds.net
+http://gamerzplanet.net
+http://pornbb.org
+http://warezshares.com
+http://puzo.us
+http://puso.org
+
+
+And Any Other Community Out there Basically. Its all about Mixing :D
+
+--------------------------------------------------------------------------------------------------------------------
+The Author Of This Guide Is NOT Responsible For ANYTHING You Do With This , I encourage you not to use any of this. It was only created for educational purposes and to demonstrate how web pages are vulnerable. If you EVER see a phisher please report it.PHISHERS ARE ILLEGAL. 
+
+materials gathered from : voide.org,blackbay.org and downloadslc.info and pic tut by Innovator  
+Pack compiled and read me written by : lagiosman~ (http://madspot.org - downloadslc.info)
