@@ -1,0 +1,29 @@
+Tips for spamming: 
+
+1. Buy valid targeted & filtered leads for spamming
+
+2. Don't include organisation names like PayPal, Chase etc. on your domain name, from mail list or anywhere
+
+3. Use noip.com to create dns 
+
+4. Always warm up new smtp
+
+5. Don't send mail to gmail, outlook & protonmail to avoid killing your smtp.
+
+6. use s.id to shorten your scampage link.
+
+7. use fresh & clean letter, good smtp & mailer ( heartsender works fine too ) , if your mails keep getting onto
+   spam folder then change subject, from mail list sections. Try to avoid spam words on your letter and remember
+   your smtp works on reputation so avoid spam mails & warm it up. 
+
+
+
+Regards, 
+Hacktiva
+
+★ Join Our Official Channels Here:
+ 
+► Telegram : https://t.me/hacktiva
+► Facebook : https://www.facebook.com/hactiva
+► Instagram : 
+https://www.instagram.com/hacktiva.us
